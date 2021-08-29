@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShreyaSomani
 - 👀 I’m interested in data science and computer networking.
 - 🌱 I’m currently learning data sructures and machine language.
+- I have made projects using OpenCV and on Computer Vision.
 - 
 
 <!---
